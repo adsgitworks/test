@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1549813793 source:c:\users\joaop\desktop\jp\c\estrutura de dados\estruturas\funcionario.c
+	<string.h>
+	"funcionario.h"
+	<stdio.h>
+	<stdlib.h>
+
+1549813810 c:\users\joaop\desktop\jp\c\estrutura de dados\estruturas\funcionario.h
+
+1549817847 source:c:\users\joaop\desktop\jp\c\estrutura de dados\estruturas\lista.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+	"funcionario.h"
+
+1549817855 c:\users\joaop\desktop\jp\c\estrutura de dados\estruturas\lista.h
+
+1549818404 source:c:\users\joaop\desktop\jp\c\estrutura de dados\estruturas\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1549818416 c:\users\joaop\desktop\jp\c\estrutura de dados\estruturas\pilha.h
+
+1549817569 source:c:\users\joaop\desktop\jp\c\estrutura de dados\q1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../estruturas/lista.h"
+	"../estruturas/pilha.h"
+	"../estruturas/funcionario.h"
+
+1549813793 source:c:\users\joaop\desktop\jp\c\estrutura de dados\ed atividades\estruturas\funcionario.c
+	<string.h>
+	"funcionario.h"
+	<stdio.h>
+	<stdlib.h>
+
+1549813810 c:\users\joaop\desktop\jp\c\estrutura de dados\ed atividades\estruturas\funcionario.h
+

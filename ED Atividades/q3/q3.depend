@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1549818404 source:c:\users\joaop\desktop\jp\c\estrutura de dados\estruturas\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1549818416 c:\users\joaop\desktop\jp\c\estrutura de dados\estruturas\pilha.h
+
+1549821563 source:c:\users\joaop\desktop\jp\c\estrutura de dados\q3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../estruturas/pilha.h"
+
+1549821563 source:c:\users\joaop\desktop\jp\c\estrutura de dados\ed atividades\q3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../estruturas/pilha.h"
+
+1549824454 c:\users\joaop\desktop\jp\c\estrutura de dados\ed atividades\estruturas\pilha.h
+
+1549824457 source:c:\users\joaop\desktop\jp\c\estrutura de dados\ed atividades\estruturas\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
